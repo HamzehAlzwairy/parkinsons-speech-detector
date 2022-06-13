@@ -9,8 +9,7 @@ may experience difficulty in spelling words or making sounds, lowered voice tone
 and a low pitch range to count a few. For this project, I am going to use a dataset of processed speech signals to
 classify processed speech pattern into patterns belonging to a PD patient ’1’
 or a healthy individual ’0’. Data was gathered in a study conducted at the
-Department of Neurology in Cerrahpa˚AYa Faculty of Medicine, Istanbul Uni- ¨
-versity.
+Department of Neurology in Cerrahpa˚AYa Faculty of Medicine, Istanbul University.
 
 Dataset link: https://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification#
 
